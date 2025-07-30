@@ -73,6 +73,7 @@ for i in range(5):
 ### Results
 
 ![Trending Top Skills for Data Analysts in the US](images/Skill_Trend_DA.png)
+
 *Bar graph visualizing the trending top skills for Data Analysts in the US in 2023.*
 
 ### Insights:
@@ -103,6 +104,7 @@ plt.show()
 
 ### Results
 ![Salary Distributions of Data Jobs in the US](images/Salary_Boxplot.png)
+
 *Box plot visualizing the salary distributions for the top 6 Data job titles.*
 
 ### Insights
